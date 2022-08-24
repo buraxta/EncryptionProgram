@@ -10,3 +10,5 @@ Logic is not so hard;
 * thanks to nested for loop we determine which character equals within the shuffled list by index
 * for encryption, we replace given value with new characters within this shuffledList
 * for encryption we use this shuffledList as a key, without this list, we can't decryp any part of message
+
+*this whole logic is created by bro code
